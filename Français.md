@@ -1,7 +1,7 @@
 # Romain Sauvaire
 
 ## Intégrateur et développeur web et mobile
-Je suis un garçon né le 9 février 1984 (le cap des 30 ans a été passé récemment). Si vous préférez me contacter et en discuter de vive voix, c'est [par ici](#contact) !
+Je suis un garçon né le 9 février 1984. Si vous préférez me contacter et en discuter de vive voix, c'est [par ici](#contact) !
 
 #### Développement...
 En tant que développeur, je me concentre sur les technologies [HTML](#HTML), [JavaScript](#JS), [CSS](#CSS) et [PHP](#PHP) tout en profitant des outils proposés par leurs communautés et en suivant les "best practices" du développement web.
