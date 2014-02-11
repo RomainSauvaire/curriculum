@@ -66,7 +66,7 @@ Des voyages au Népal, au Sahara, différents jobs dont vendeur de glace (4 ans)
 
 Vous pouvez obtenir les contacts ou lettres de recommandation de chacun de ces postes sur simple demande.
 
-<a id="contact"></a>
+<a name="contact"></a>
 ### Contactez-moi !
 
 - Email : [romain@jefaisvotresite.com](mailto:romain@jefaisvotresite.com)
