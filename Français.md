@@ -72,3 +72,4 @@ Vous pouvez obtenir les contacts ou lettres de recommandation de chacun de ces p
 - Email : [romain@jefaisvotresite.com](mailto:romain@jefaisvotresite.com)
 - Site : [Jefaisvotresite](http://jefaisvotresite.com)
 - Téléphone : [+32 (0)497 26 48 32](tel:0032497264832)
+- Skype : romain.sauvaire
