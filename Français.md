@@ -26,7 +26,7 @@ J'ai également des notions de base en .NET et Ruby (Ruby On Rails).
 Pour n'en citer que certains :
 
 - **(X)HTML/HTML5** : Modernizr, CanIUse.com, Emmet, HTML5Shiv, Html5 Boiler Plate, HTML Email Boilerplate, différents Polyfills, le Validateur W3C, BrowserShots, ...  ;
-- **CSS** : Les pré-processeurs SASS et LESS pour améliorer la modularité et maintenabilité. Principalement avec des collections de facilitateurs comme Compass, Neat, Bourbon, Semantic.gs, Lesshat, ... ;
+- **CSS** : Les pré-processeurs SASS et LESS pour améliorer la modularité et la maintenabilité du CSS. Principalement avec des collections de facilitateurs comme Compass, Neat, Bourbon, Semantic.gs, Lesshat, ... ;
 - **JavaScript** : librairies JQuery/UI/Mobile (depuis sa version 0.7), Yahoo UI et des "outils" comme Coffeescript et JSLint. Déjà travaillé avec Angular.js et Knockout.js, QUnit ;
 -  **PHP** : Composer/Packagist. Au niveau des frameworks Laravel est de loin mon favori, je connais aussi CodeIgniter et j'ai des notions de Symfony et Zend Framework. Pour les outils j'utilise parfois Smarty et je comprends la majorité des principes OO, ai déjà fait de l'intégration continue et du Test Driven Development ;
 -  **CMS** : Tous mes projets clients ont été intégrés dans Worpress ou Spip et j'ai déjà travaillé avec Drupal, Kirby (CMS DB free) et Umbraco (.NET) ;
