@@ -36,7 +36,7 @@ Pour n'en citer que certains :
 
 ### Langues et communication
 
-J'utilise la communication non violente au quotidien et m'en sers pour expliciter mes attentes et m'assurer de comprendre celles des autres. Deux déémarches habituelles qui me paraissent nécessaires lorsqu'on travaille en équipe ou avec un client.
+J'utilise la communication non violente au quotidien et m'en sers pour expliciter mes attentes et m'assurer de comprendre celles des autres. Deux démarches habituelles qui me paraissent nécessaires lorsqu'on travaille en équipe ou avec un client.
 
 - Le Français est ma langue maternelle et j'accorde beaucoup d'attention à son orthographe ;
 - Je parle couramment Anglais qu'il soit technique ou pas ;
