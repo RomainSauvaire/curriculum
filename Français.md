@@ -52,7 +52,7 @@ J'utilise la communication non violente au quotidien et m'en sers pour explicite
 ### Expériences utiles
 
 #### 2007-2014 Freelance
-Plusieurs clients dont une application de concours sur Facebook, [plusieurs sites](http://jefaisvotresite.com/portfolio/) et  un projet personnel : [Fortho](http://fortho.fr) qui est un outil pour les logopèdes.
+Plusieurs clients dont une application de concours sur Facebook, [plusieurs sites](http://jefaisvotresite.com/portfolio/) et  un projet personnel appelé [Fortho](http://fortho.fr) qui est un outil pour les logopèdes.
 
 #### 2012 Voyage en Mongolie
 Que fait un voyage dans les expériences utiles ?
