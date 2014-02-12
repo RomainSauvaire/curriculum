@@ -1,10 +1,8 @@
 # Romain Sauvaire
 
 ## Intégrateur et développeur web et mobile
-Vous préférez me contacter et discuter de vive voix, c'est [par ici](#contact) !
-
-Vous désirez directement [avoir un aperçu de mes compétences](#competences) ?
-
+Mes coordonnées de contact sont tout [en bas de cette page](#contact) car sans avoir eu [un aperçu de mes compétences](#competences), elles ne vous serviront pas.
+Si vous préférez me contacter et discuter de vive voix, c'est [par ici](#contact) !
 
 <a name="competences"></a>
 #### Intégration...
