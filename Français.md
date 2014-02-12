@@ -36,11 +36,13 @@ Pour n'en citer que certains :
 
 ### Langues et communication
 
-- Le Français est ma langue maternelle. J'accorde beaucoup d'attention à l'orthographe également ;
+J'utilise la communication non violente au quotidien et m'en sers pour expliciter mes attentes et m'assurer de comprendre celles des autres. Deux déémarches habituelles qui me paraissent nécessaires lorsqu'on travaille en équipe ou avec un client.
+
+- Le Français est ma langue maternelle et j'accorde beaucoup d'attention à son orthographe ;
 - Je parle bien Anglais qu'il soit technique ou pas ;
 - Je comprends le Néérlandais et peux faire des phrases simples ;
 
-Dans mon quotidien, je fais la démarche d'utiliser la communication non violente, d'expliciter mes attentes et de comprendre celles des autres. C'est absolument nécessaire lorsqu'on travaille en équipe ou avec un client.
+
 
 ### Diplômes
 - 2004 - 2007 – Bachelier en Infographie orientation Web à la Haute Ecole Rennequim Sualem de Seraing. Sorti deuxième de ma promotion avec la mention **grande distinction** ;
