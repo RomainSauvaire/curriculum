@@ -3,11 +3,13 @@
 ## Intégrateur et développeur web et mobile
 Je suis un garçon né le 9 février 1984. Si vous préférez me contacter et en discuter de vive voix, c'est [par ici](#contact) !
 
-#### Développement...
-En tant que développeur, je me concentre sur les technologies [HTML](#HTML), [JavaScript](#JS), [CSS](#CSS) et [PHP](#PHP) tout en profitant des outils proposés par leurs communautés et en suivant les "best practices" du développement web.
 
-#### ... et intégration
+
+#### Intégration...
 En tant qu'intégrateur, j'interviens dans la traduction en HTML sémantique d'un design "en dur" autant que dans l'optimisation des performances d'une page ou de son expérience utilisateur.
+
+#### et développement
+En tant que développeur, je me concentre sur les technologies [HTML](#HTML), [JavaScript](#JS), [CSS](#CSS) et [PHP](#PHP) tout en profitant des outils proposés par leurs communautés et en suivant les "best practices" du développement web.
 
 ### Technologies
 
