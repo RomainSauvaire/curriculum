@@ -39,7 +39,7 @@ Pour n'en citer que certains :
 J'utilise la communication non violente au quotidien et m'en sers pour expliciter mes attentes et m'assurer de comprendre celles des autres. Deux déémarches habituelles qui me paraissent nécessaires lorsqu'on travaille en équipe ou avec un client.
 
 - Le Français est ma langue maternelle et j'accorde beaucoup d'attention à son orthographe ;
-- Je parle bien Anglais qu'il soit technique ou pas ;
+- Je parle couramment Anglais qu'il soit technique ou pas ;
 - Je comprends le Néérlandais et peux faire des phrases simples ;
 
 
