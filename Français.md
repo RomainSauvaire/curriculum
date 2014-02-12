@@ -59,14 +59,14 @@ Que fait un voyage dans les expériences utiles ?
 Je pense que c'est le point de pivot entre ma vie de consommateur aveugle et celle de personne consciente. Depuis, je n'ai de cesse de corriger mes défauts de gaspilleur et tâche de me rapprocher de mes idéaux.
 
 #### 2008-2013 Professeur RIA invité
-J'ai enseigné aux elèves terminant leur bachelier divers outils (Flex, jQuery, CodeIgniter, Drupal) mais aussi des méthodologies et facilitateurs pour la vie professionnelle. Cette expérience m'a énormément appris quant à la remise en question et ce que l'on croit acquis.
+J'ai enseigné aux élèves terminant leur bachelier divers outils (Flex, jQuery, CodeIgniter, Drupal) mais aussi des méthodologies et facilitateurs pour la vie professionnelle. Cette expérience m'a énormément appris quant à la remise en question constante des savoirs que l'on croit acquis.
 
 #### 2007-2012 Architecte RIA SNCB/NMBS
-J'ai été engagé comme développeur Flash/ActionScript avant de promouvoir les standards et l'accessibilité du web au sein de l'entreprise. Dès 2009 j'ai été nommé Architecte RIA (Rich Internet Applications) suios devenu responsable des choix technologiques liés au web des différents centres de compétences internes (PHP, .NET, Java). J'ai été à la tête d'une équipe de dix personnes et responsable de leurs interviews/engagement.
-Noyé sous l'administration, je n'avais plus les mains dans le code et mon activité d'indépendant complémentaire prenant beaucoup de temps, j'ai quitté pour me lancer freelance.
+J'ai été engagé comme développeur Flash/ActionScript avant de promouvoir les standards et l'accessibilité du web au sein de l'entreprise. Dès 2009 j'ai été nommé Architecte RIA (Rich Internet Applications) suis devenu responsable des choix technologiques liés au web des différents centres de compétences internes (PHP, .NET, Java). J'ai été à la tête d'une équipe de dix personnes et responsable de leurs interviews/engagement.
+Noyé par les démarches administratives liées à mon poste, n'ayant plus les mains dans le code. Mon activité d'indépendant complémentaire grandissante, j'ai pris la décision de quitter la SNCB pour devenir freelance.
 
 #### Avant 2007
-Des voyages au Népal, au Sahara, différents jobs dont vendeur de glace (4 ans) et barman (2 ans) qui m'ont aidé à appréhender la relation humaine de la meilleure façon qu'il soit à mes yeux : en les rencontrant.
+Des voyages au Népal, au Sahara et différents jobs d'étudiant (dont vendeur de glace 4 ans et barman 2 ans) m'ont aidé à appréhender la relation humaine de la meilleure façon qu'il soit à mes yeux : en rencontrant d'autres humains.
 
 Vous pouvez obtenir les contacts ou lettres de recommandation de chacun de ces postes sur simple demande.
 
