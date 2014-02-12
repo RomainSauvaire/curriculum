@@ -1,10 +1,11 @@
 # Romain Sauvaire
 
 ## Intégrateur et développeur web et mobile
-Je suis un garçon né le 9 février 1984. Si vous préférez me contacter et en discuter de vive voix, c'est [par ici](#contact) !
+Vous préférez me contacter et discuter de vive voix, c'est [par ici](#contact) !
+Vous désirez directement [avoir un aperçu de mes conmpétences](#competences) ?
 
 
-
+<a name="competences"></a>
 #### Intégration...
 En tant qu'intégrateur, j'interviens dans la traduction en HTML sémantique d'un design "en dur" autant que dans l'optimisation des performances d'une page ou de son expérience utilisateur.
 
