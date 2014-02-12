@@ -13,7 +13,7 @@ En tant que développeur, je me concentre sur les technologies [HTML](#HTML), [J
 
 ### Technologies
 
-- <a name="HTML"></a>**(X)HTML/HTML5** : Je prends en compte les standards web et propose une structure de page _sémantique_, _compatible_ avec les anciens navigateurs. L'accessibilité (normes AnySurfer, WAI-Aria, ...), l'utilisabilité et l'ergonomie sont des facteurs dont je tiens compte également ;
+- <a name="HTML"></a>**(X)HTML/HTML5** : Je prends en compte les standards web et propose une structure de page _sémantique_, _compatible_ avec les anciens navigateurs de même que l'accessibilité (normes AnySurfer, WAI-Aria, ...), l'utilisabilité et l'ergonomie ;
 - <a name="CSS"></a>**CSS** : CSS 2.1 et CSS 3, préfixes vendeurs, _modularité_, systèmes de grilles, préprocesseurs ;
 - <a name="JS"></a>**JavaScript** : Javascript 1.5 et au-dessus, je suis habitué à écrire du "vanilla-code" ;
 - <a name="PHP"></a>**PHP** : Bien que j'utilise PHP 4 et 5 depuis 10 ans, je le fais rarement sans framework et l'Orienté Objet est obligatoire ;
