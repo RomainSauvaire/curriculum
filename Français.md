@@ -21,7 +21,7 @@ En tant que développeur, je me concentre sur les technologies [HTML](#HTML), [J
 
 J'ai également des notions de base en .NET et Ruby (Ruby On Rails).
 
-### Outils utilisés (et maîtrisés) avec ces technologies
+### Outils utilisés et maîtrisés avec ces technologies
 
 Pour n'en citer que certains.
 
