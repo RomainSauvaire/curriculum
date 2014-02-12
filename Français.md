@@ -56,7 +56,7 @@ Plusieurs clients dont une application de concours sur Facebook, [plusieurs site
 
 #### 2012 Voyage en Mongolie
 Que fait un voyage dans les expériences utiles ?
-Je pense que c'est le point de pivot entre ma vie de consommateur aveugle et celle de personne consciente. Depuis, je n'ai de cesse de corriger mes défauts de gaspilleur et tâche de me rapprocher de mes ideaux.
+Je pense que c'est le point de pivot entre ma vie de consommateur aveugle et celle de personne consciente. Depuis, je n'ai de cesse de corriger mes défauts de gaspilleur et tâche de me rapprocher de mes idéaux.
 
 #### 2008-2013 Professeur RIA invité
 J'ai enseigné aux elèves terminant leur bachelier divers outils (Flex, jQuery, CodeIgniter, Drupal) mais aussi des méthodologies et facilitateurs pour la vie professionnelle. Cette expérience m'a énormément appris quant à la remise en question et ce que l'on croit acquis.
