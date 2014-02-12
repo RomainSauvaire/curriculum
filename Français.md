@@ -17,7 +17,7 @@ En tant que développeur, je me concentre sur les technologies [HTML](#HTML), [J
 - <a name="CSS"></a>**CSS** : CSS 2.1 et CSS 3, préfixes vendeurs, _modularité_, systèmes de grilles, préprocesseurs ;
 - <a name="JS"></a>**JavaScript** : Javascript 1.5 et au-dessus, je suis habitué à écrire du "vanilla-code" ;
 - <a name="PHP"></a>**PHP** : Bien que j'utilise PHP 4 et 5 depuis 10 ans, je le fais rarement sans framework et l'Orienté Objet est obligatoire ;
-- <a name="AS"></a>**ActionScript** : j'ai travaillé 3 ans en tant que développeur ActionScript mais n'en ai plus fait depuis longtemps.
+- <a name="AS"></a>**ActionScript** : j'ai travaillé 3 ans en tant que développeur ActionScript.
 
 J'ai également des notions de base en .NET et Ruby (Ruby On Rails).
 
