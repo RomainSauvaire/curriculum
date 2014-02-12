@@ -23,7 +23,7 @@ J'ai également des notions de base en .NET et Ruby (Ruby On Rails).
 
 ### Outils utilisés et maîtrisés avec ces technologies
 
-Pour n'en citer que certains.
+Pour n'en citer que certains :
 
 - **(X)HTML/HTML5** : Modernizr, CanIUse.com, Emmet, HTML5Shiv, Html5 Boiler Plate, HTML Email Boilerplate, différents Polyfills, le Validateur W3C, BrowserShots, ...  ;
 - **CSS** : Les pré-processeurs SASS et LESS pour améliorer la modularité et maintenabilité. Principalement avec des collections de facilitateurs comme Compass, Neat, Bourbon, Semantic.gs, Lesshat, ... ;
