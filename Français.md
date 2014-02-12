@@ -62,7 +62,8 @@ J'utilise la communication non violente au quotidien et m'en sers pour explicite
 #### 2007-2014 Freelance
 Plusieurs clients dont une application de concours sur Facebook, [plusieurs sites](http://jefaisvotresite.com/portfolio/) et  un projet personnel appelé [Fortho](http://fortho.fr) qui est un outil pour les logopèdes.
 
-<a name="mongolia"></a>#### 2012 Voyage en Mongolie
+<a name="mongolia"></a>
+#### 2012 Voyage en Mongolie
 Que fait un voyage dans les expériences utiles ?
 Je pense que c'est le point de pivot entre ma vie de consommateur aveugle et celle de personne consciente. Depuis, je n'ai de cesse de corriger mes défauts de gaspilleur et tâche de me rapprocher de mes idéaux.
 
@@ -73,7 +74,8 @@ J'ai enseigné aux élèves terminant leur bachelier divers outils (Flex, jQuery
 J'ai été engagé comme développeur Flash/ActionScript avant de promouvoir les standards et l'accessibilité du web au sein de l'entreprise. Dès 2009 j'ai été nommé Architecte RIA (Rich Internet Applications) suis devenu responsable des choix technologiques liés au web des différents centres de compétences internes (PHP, .NET, Java). J'ai été à la tête d'une équipe de dix personnes et responsable de leurs interviews/engagement.
 Noyé par les démarches administratives liées à mon poste, n'ayant plus les mains dans le code. Mon activité d'indépendant complémentaire grandissante, j'ai pris la décision de quitter la SNCB pour devenir freelance.
 
-<a name="before"></a>#### Avant 2007
+<a name="before"></a>
+#### Avant 2007
 Des voyages au Népal, au Sahara et différents jobs d'étudiant (dont vendeur de glace 4 ans et barman 2 ans) m'ont aidé à appréhender la relation humaine de la meilleure façon qu'il soit à mes yeux : en rencontrant d'autres humains.
 
 Vous pouvez obtenir les contacts ou lettres de recommandation de chacun de ces postes sur simple demande.
