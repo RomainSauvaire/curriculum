@@ -40,7 +40,7 @@ J'utilise la communication non violente au quotidien et m'en sers pour explicite
 
 - Le Français est ma langue maternelle et j'accorde beaucoup d'attention à son orthographe ;
 - Je parle couramment Anglais qu'il soit technique ou pas ;
-- Je comprends le Néérlandais et peux faire des phrases simples ;
+- Je comprends les bases du Néérlandais et peux dire des phrases simples ;
 
 
 
