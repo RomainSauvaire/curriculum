@@ -2,7 +2,15 @@
 
 ## Intégrateur et développeur web et mobile
 Mes coordonnées de contact sont tout [en bas de cette page](#contact) car sans avoir eu [un aperçu de mes compétences](#competences), elles ne vous serviront pas.
-Si vous préférez me contacter et discuter de vive voix, c'est [par ici](#contact) !
+Si vous préférez me contacter et discuter de vive voix, suivez [ce lien](#contact) !
+
+J'enfreins volontairement cette règle des "coordonées en premier" en pensant d'abord à vous, le lecteur de ce curriculum. Ce réflexe de penser au lecteur, au visiteur ou à mon prochain, je l'ai depuis longtemps et j'essaie d'avoir cette empathie dans chacun de mes actes _ou_ lorsque je réalise un site internet...
+
+Cette empathie et [plusieurs](#mongolia) [voyages](#before) dans des pays dit "pauvres" m'ont aidé à réaliser que chacun devait prendre son futur en main et, tel [le colibri de Pierre Rabhi](https://www.colibris-lemouvement.org/colibris/colibris-et-la-legende), apporter sa contribution, aussi minime soit-elle, à l'améloration de la gestion notre Terre.
+
+Depuis plusieurs années, je me pose donc cette question de "qcomment puis-je m'impliquer pour aider la Terre avec mes compétences liées au web" ? Deux mondes apparemment séparés par un grand fossé.
+
+Lire votre annonce a été en quelque sorte le pont qui me permetrait de passer ce fossé et a généré en moi un enthousiasme sans mesure. 
 
 <a name="competences"></a>
 #### Intégration...
@@ -54,7 +62,7 @@ J'utilise la communication non violente au quotidien et m'en sers pour explicite
 #### 2007-2014 Freelance
 Plusieurs clients dont une application de concours sur Facebook, [plusieurs sites](http://jefaisvotresite.com/portfolio/) et  un projet personnel appelé [Fortho](http://fortho.fr) qui est un outil pour les logopèdes.
 
-#### 2012 Voyage en Mongolie
+<a name="mongolia"></a>#### 2012 Voyage en Mongolie
 Que fait un voyage dans les expériences utiles ?
 Je pense que c'est le point de pivot entre ma vie de consommateur aveugle et celle de personne consciente. Depuis, je n'ai de cesse de corriger mes défauts de gaspilleur et tâche de me rapprocher de mes idéaux.
 
@@ -65,7 +73,7 @@ J'ai enseigné aux élèves terminant leur bachelier divers outils (Flex, jQuery
 J'ai été engagé comme développeur Flash/ActionScript avant de promouvoir les standards et l'accessibilité du web au sein de l'entreprise. Dès 2009 j'ai été nommé Architecte RIA (Rich Internet Applications) suis devenu responsable des choix technologiques liés au web des différents centres de compétences internes (PHP, .NET, Java). J'ai été à la tête d'une équipe de dix personnes et responsable de leurs interviews/engagement.
 Noyé par les démarches administratives liées à mon poste, n'ayant plus les mains dans le code. Mon activité d'indépendant complémentaire grandissante, j'ai pris la décision de quitter la SNCB pour devenir freelance.
 
-#### Avant 2007
+<a name="before"></a>#### Avant 2007
 Des voyages au Népal, au Sahara et différents jobs d'étudiant (dont vendeur de glace 4 ans et barman 2 ans) m'ont aidé à appréhender la relation humaine de la meilleure façon qu'il soit à mes yeux : en rencontrant d'autres humains.
 
 Vous pouvez obtenir les contacts ou lettres de recommandation de chacun de ces postes sur simple demande.
