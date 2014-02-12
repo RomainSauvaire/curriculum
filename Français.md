@@ -2,7 +2,8 @@
 
 ## Intégrateur et développeur web et mobile
 Vous préférez me contacter et discuter de vive voix, c'est [par ici](#contact) !
-Vous désirez directement [avoir un aperçu de mes conmpétences](#competences) ?
+
+Vous désirez directement [avoir un aperçu de mes compétences](#competences) ?
 
 
 <a name="competences"></a>
