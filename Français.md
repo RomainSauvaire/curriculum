@@ -67,11 +67,11 @@ Plusieurs clients dont une application de concours sur Facebook, [plusieurs site
 Que fait un voyage dans les expériences utiles ?
 Je pense que c'est le point de pivot entre ma vie de consommateur aveugle et celle de personne consciente. Depuis, je n'ai de cesse de corriger mes défauts de gaspilleur et tâche de me rapprocher de mes idéaux.
 
-#### 2008-2013 Professeur RIA invité
+#### 2008-2013 Professeur RIA (Rich Internet Application) invité
 J'ai enseigné aux élèves terminant leur bachelier divers outils (Flex, jQuery, CodeIgniter, Drupal) mais aussi des méthodologies et facilitateurs pour la vie professionnelle. Cette expérience m'a énormément appris quant à la remise en question constante des savoirs que l'on croit acquis.
 
 #### 2007-2012 Architecte RIA SNCB/NMBS
-J'ai été engagé comme développeur Flash/ActionScript avant de promouvoir les standards et l'accessibilité du web au sein de l'entreprise. Dès 2009 j'ai été nommé Architecte RIA (Rich Internet Applications) suis devenu responsable des choix technologiques liés au web des différents centres de compétences internes (PHP, .NET, Java). J'ai été à la tête d'une équipe de dix personnes et responsable de leurs interviews/engagement.
+J'ai été engagé comme développeur Flash/ActionScript avant de promouvoir les standards et l'accessibilité du web au sein de l'entreprise. Dès 2009 j'ai été nommé Architecte RIA suis devenu responsable des choix technologiques liés au web des différents centres de compétences internes (PHP, .NET, Java). J'ai été à la tête d'une équipe de dix personnes et responsable de leurs interviews/engagement.
 Noyé par les démarches administratives liées à mon poste, n'ayant plus les mains dans le code. Mon activité d'indépendant complémentaire grandissante, j'ai pris la décision de quitter la SNCB pour devenir freelance.
 
 <a name="before"></a>
