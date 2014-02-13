@@ -87,3 +87,5 @@ Vous pouvez obtenir les contacts ou lettres de recommandation de chacun de ces p
 - Site : [Jefaisvotresite](http://jefaisvotresite.com)
 - Téléphone : [+32 (0)497 26 48 32](tel:0032497264832)
 - Skype : romain.sauvaire
+- GitHub: Compte GitHub](https://github.com/RomainSauvaire/)
+- LinkedIn : [Profil LinkedIn](http://www.linkedin.com/pub/romain-sauvaire/33/893/9aa
