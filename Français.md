@@ -8,7 +8,7 @@ J'enfreins volontairement cette règle des "coordonées en premier" en pensant d
 
 Cette empathie et [plusieurs](#mongolia) [voyages](#before) dans des pays dit "pauvres" m'ont aidé à réaliser que chacun devait prendre son futur en main et, tel [le colibri de Pierre Rabhi](https://www.colibris-lemouvement.org/colibris/colibris-et-la-legende), apporter sa contribution, aussi minime soit-elle, à l'améloration de la gestion de notre Terre.
 
-Depuis plusieurs années, je me pose donc cette question de "comment puis-je m'impliquer pour aider la Terre avec mes compétences liées au web" ? Deux mondes apparemment séparés par un grand fossé.
+Depuis plusieurs années, je me pose donc cette question de "comment puis-je m'impliquer pour aider la Terre avec mes compétences liées au web" ? Deux mondes apparemment séparés par un grand fossé mais où il est possible de faire un effort en livrant du code rapide et performant permettant alors de réduire la consommation électrique du serveur et du client. On pourrait même appeller ça du _code durable_ ou à _faible impact écologique_, on pourrait.
 
 Lire votre annonce a été en quelque sorte le pont qui me permettrait de passer ce fossé et a généré en moi un enthousiasme sans mesure. 
 
