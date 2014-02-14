@@ -50,9 +50,8 @@ J'utilise la communication non violente au quotidien et m'en sers pour explicite
 - Je parle couramment Anglais qu'il soit technique ou pas ;
 - Je comprends les bases du Néérlandais et peux dire des phrases simples ;
 
-
-
 ### Diplômes
+
 - 2004 - 2007 – Bachelier en Infographie orientation Web à la Haute Ecole Rennequim Sualem de Seraing. Sorti second de ma promotion avec **grande distinction** ;
 - 2003 – Un an d’interprétariat traduction à l’ISTI Anglais/Russe (Bruxelles) ;
 - 2002 – Diplôme d’études secondaires, option latin langues à l’Athénée Royal de Spa.
@@ -82,6 +81,8 @@ Vous pouvez obtenir les contacts ou lettres de recommandation de chacun de ces p
 
 <a name="contact"></a>
 ### Contactez-moi !
+
+J'ai oublié de vous dire que je faisais de la course à pied et du VTT depuis presque vingt ans, j'adore en parler et echanger [des défis](http://www.strongmanrun.be/smr/?lang=fr) !
 
 - Email : [romain@jefaisvotresite.com](mailto:romain@jefaisvotresite.com)
 - Site : [Jefaisvotresite](http://jefaisvotresite.com)
