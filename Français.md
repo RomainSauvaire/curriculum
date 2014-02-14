@@ -35,8 +35,8 @@ Pour n'en citer que certains :
 
 - **(X)HTML/HTML5** : Modernizr, CanIUse.com, Emmet, HTML5Shiv, Html5 Boiler Plate, HTML Email Boilerplate, différents Polyfills, le Validateur W3C, BrowserShots, ...  ;
 - **CSS** : Les préprocesseurs SASS et LESS pour améliorer la modularité et la maintenabilité du CSS. Principalement avec des collections de facilitateurs comme Compass, Neat, Bourbon, Semantic.gs, Lesshat, ... ;
-- **JavaScript** : librairies JQuery/UI/Mobile (depuis sa version 0.7), Yahoo UI et des outils comme Grunt et Coffeescript et JSLint. Déjà travaillé avec Angular.js et Knockout.js, QUnit ;
--  **PHP** : Composer/Packagist, Laravel (de loin mon favori) et CodeIgniter. Symfony et Zend Framework (notions), Smarty et je pratique l'intégration continue, le Test-Driven Development et comprends la majorité des principes OO ;
+- **JavaScript** : librairies JQuery/UI/Mobile (depuis sa version 0.7), Yahoo UI et des outils comme Grunt et Coffeescript, Bower et JSLint. Déjà travaillé avec Angular.js et Knockout.js, QUnit ;
+-  **PHP** : Composer/Packagist, Vagrant, Laravel (de loin mon favori) et CodeIgniter. Symfony et Zend Framework (notions), Smarty et je pratique l'intégration continue, le Test-Driven Development et comprends la majorité des principes OO ;
 -  **CMS** : Tous mes projets clients ont été intégrés dans Worpress ou Spip et j'ai déjà travaillé avec Drupal, Kirby (CMS DB free) et Umbraco (.NET) ;
 -  **IDE** : Sublime Text, comment faisait-on avant ?
 -  **Design** : Ce point pourrait faire l'objet d'un CV plus détaillé mais je suis très à l'aise avec Photoshop et utilise régulièrement Illustrator ;
