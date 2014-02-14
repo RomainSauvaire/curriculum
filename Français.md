@@ -6,24 +6,24 @@ Si vous préférez me contacter et discuter de vive voix, suivez [ce lien](#cont
 
 J'enfreins volontairement cette règle des "coordonées en premier" en pensant d'abord à vous, le lecteur de ce curriculum. Ce réflexe de penser au lecteur, au visiteur ou à mon prochain, je l'ai depuis longtemps et j'essaie d'avoir cette empathie dans chacun de mes actes _ou_ lorsque je réalise un site internet...
 
-Cette empathie et [plusieurs](#mongolia) [voyages](#before) dans des pays dit "pauvres" m'ont aidé à réaliser que chacun devait prendre son futur en main et, tel [le colibri de Pierre Rabhi](https://www.colibris-lemouvement.org/colibris/colibris-et-la-legende), apporter sa contribution, aussi minime soit-elle, à l'améloration de la gestion notre Terre.
+Cette empathie et [plusieurs](#mongolia) [voyages](#before) dans des pays dit "pauvres" m'ont aidé à réaliser que chacun devait prendre son futur en main et, tel [le colibri de Pierre Rabhi](https://www.colibris-lemouvement.org/colibris/colibris-et-la-legende), apporter sa contribution, aussi minime soit-elle, à l'améloration de la gestion de notre Terre.
 
-Depuis plusieurs années, je me pose donc cette question de "qcomment puis-je m'impliquer pour aider la Terre avec mes compétences liées au web" ? Deux mondes apparemment séparés par un grand fossé.
+Depuis plusieurs années, je me pose donc cette question de "comment puis-je m'impliquer pour aider la Terre avec mes compétences liées au web" ? Deux mondes apparemment séparés par un grand fossé.
 
-Lire votre annonce a été en quelque sorte le pont qui me permetrait de passer ce fossé et a généré en moi un enthousiasme sans mesure. 
+Lire votre annonce a été en quelque sorte le pont qui me permettrait de passer ce fossé et a généré en moi un enthousiasme sans mesure. 
 
 <a name="competences"></a>
 #### Intégration...
-En tant qu'intégrateur, j'interviens dans la traduction en HTML sémantique d'un design "en dur" autant que dans l'optimisation des performances d'une page ou de son expérience utilisateur.
+En tant qu'intégrateur, j'interviens dans la traduction en HTML sémantique d'un design _en dur_ autant que dans l'optimisation des performances d'une page ou de son expérience utilisateur.
 
 #### et développement
-En tant que développeur, je me concentre sur les technologies [HTML](#HTML), [JavaScript](#JS), [CSS](#CSS) et [PHP](#PHP) tout en profitant des outils proposés par leurs communautés et en suivant les "best practices" du développement web.
+En tant que développeur, je me concentre sur les technologies [HTML](#HTML), [JavaScript](#JS), [CSS](#CSS) et [PHP](#PHP) tout en profitant des outils proposés par leurs communautés et en suivant les _best practices_ du développement web.
 
 ### Technologies
 
 - <a name="HTML"></a>**(X)HTML/HTML5** : Je prends en compte les standards web et propose une structure de page _sémantique_, _compatible_ avec les anciens navigateurs de même que l'accessibilité (normes AnySurfer, WAI-Aria, ...), l'utilisabilité et l'ergonomie ;
 - <a name="CSS"></a>**CSS** : CSS 2.1 et CSS 3, préfixes vendeurs, _modularité_, systèmes de grilles, préprocesseurs ;
-- <a name="JS"></a>**JavaScript** : Javascript 1.5 et au-dessus, je suis habitué à écrire du "vanilla-code" ;
+- <a name="JS"></a>**JavaScript** : Javascript 1.5 et au-dessus, je suis habitué à écrire du _vanilla-code_ ;
 - <a name="PHP"></a>**PHP** : Bien que j'utilise PHP 4 et 5 depuis 10 ans, je le fais rarement sans framework et l'Orienté Objet est obligatoire ;
 - <a name="AS"></a>**ActionScript** : j'ai travaillé 3 ans en tant que développeur ActionScript.
 
@@ -34,9 +34,9 @@ J'ai également des notions de base en .NET et Ruby (Ruby On Rails).
 Pour n'en citer que certains :
 
 - **(X)HTML/HTML5** : Modernizr, CanIUse.com, Emmet, HTML5Shiv, Html5 Boiler Plate, HTML Email Boilerplate, différents Polyfills, le Validateur W3C, BrowserShots, ...  ;
-- **CSS** : Les pré-processeurs SASS et LESS pour améliorer la modularité et la maintenabilité du CSS. Principalement avec des collections de facilitateurs comme Compass, Neat, Bourbon, Semantic.gs, Lesshat, ... ;
-- **JavaScript** : librairies JQuery/UI/Mobile (depuis sa version 0.7), Yahoo UI et des "outils" comme Grunt et Coffeescript et JSLint. Déjà travaillé avec Angular.js et Knockout.js, QUnit ;
--  **PHP** : Composer/Packagist, Laravel (de loin mon favori) et CodeIgniter. Symfony et Zend Framework (notions), Smarty et je pratique l'intégration continue, le Test Driven Development et comprends la majorité des principes OO ;
+- **CSS** : Les préprocesseurs SASS et LESS pour améliorer la modularité et la maintenabilité du CSS. Principalement avec des collections de facilitateurs comme Compass, Neat, Bourbon, Semantic.gs, Lesshat, ... ;
+- **JavaScript** : librairies JQuery/UI/Mobile (depuis sa version 0.7), Yahoo UI et des outils comme Grunt et Coffeescript et JSLint. Déjà travaillé avec Angular.js et Knockout.js, QUnit ;
+-  **PHP** : Composer/Packagist, Laravel (de loin mon favori) et CodeIgniter. Symfony et Zend Framework (notions), Smarty et je pratique l'intégration continue, le Test-Driven Development et comprends la majorité des principes OO ;
 -  **CMS** : Tous mes projets clients ont été intégrés dans Worpress ou Spip et j'ai déjà travaillé avec Drupal, Kirby (CMS DB free) et Umbraco (.NET) ;
 -  **IDE** : Sublime Text, comment faisait-on avant ?
 -  **Design** : Ce point pourrait faire l'objet d'un CV plus détaillé mais je suis très à l'aise avec Photoshop et utilise régulièrement Illustrator ;
@@ -71,7 +71,7 @@ Je pense que c'est le point de pivot entre ma vie de consommateur aveugle et cel
 J'ai enseigné aux élèves terminant leur bachelier divers outils (Flex, jQuery, CodeIgniter, Drupal) mais aussi des méthodologies et facilitateurs pour la vie professionnelle. Cette expérience m'a énormément appris quant à la remise en question constante des savoirs que l'on croit acquis.
 
 #### 2007-2012 Architecte RIA SNCB/NMBS
-J'ai été engagé comme développeur Flash/ActionScript avant de promouvoir les standards et l'accessibilité du web au sein de l'entreprise. Dès 2009 j'ai été nommé Architecte RIA suis devenu responsable des choix technologiques liés au web des différents centres de compétences internes (PHP, .NET, Java). J'ai été à la tête d'une équipe de dix personnes et responsable de leurs interviews/engagement.
+J'ai été engagé comme développeur Flash/ActionScript avant de promouvoir les standards et l'accessibilité du web au sein de l'entreprise. Dès 2009 j'ai été nommé Architecte RIA et suis devenu responsable des choix technologiques liés au web des différents centres de compétences internes (PHP, .NET, Java). J'ai été à la tête d'une équipe de dix personnes et responsable de leurs interviews/engagement.
 Noyé par les démarches administratives liées à mon poste, n'ayant plus les mains dans le code. Mon activité d'indépendant complémentaire grandissante, j'ai pris la décision de quitter la SNCB pour devenir freelance.
 
 <a name="before"></a>
