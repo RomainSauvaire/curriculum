@@ -62,7 +62,7 @@ J'utilise la communication non violente au quotidien et m'en sers pour explicite
 Plusieurs clients dont une application de concours sur Facebook, [plusieurs sites](http://jefaisvotresite.com/portfolio/) et  un projet personnel appelé [Fortho](http://fortho.fr) qui est un outil pour les logopèdes.
 
 <a name="mongolia"></a>
-#### 2012 Voyage en Mongolie
+#### 2012 La Mongolie
 Que fait un voyage dans les expériences utiles ?
 Je pense que c'est le point de pivot entre ma vie de consommateur aveugle et celle de personne consciente. Depuis, je n'ai de cesse de corriger mes défauts de gaspilleur et tâche de me rapprocher de mes idéaux.
 
@@ -82,7 +82,7 @@ Vous pouvez obtenir les contacts ou lettres de recommandation de chacun de ces p
 <a name="contact"></a>
 ### Contactez-moi !
 
-J'ai oublié de vous dire que je faisais de la course à pied et du VTT depuis presque vingt ans, j'adore en parler et echanger [des défis](http://www.strongmanrun.be/smr/?lang=fr) !
+J'ai oublié de vous dire que je faisais de la course à pied et du VTT depuis presque vingt ans, j'adore en parler et echanger [des défis](http://www.strongmanrun.be/smr/?lang=fr)&nbsp;!
 
 - Email : [romain@jefaisvotresite.com](mailto:romain@jefaisvotresite.com)
 - Site : [Jefaisvotresite](http://jefaisvotresite.com)
