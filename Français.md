@@ -73,7 +73,7 @@ Vous pouvez obtenir les contacts ou lettres de recommandation de chacun de ces p
 
 
 ### Contactez-moi !
-Honte à moi, j'ai oublié de vous dire que je fais de la course à pied et du VTT depuis longtemps et que j'adore en parler et echanger [des défis](http://www.strongmanrun.be/smr/?lang=fr) !
+Honte à moi, j'ai oublié de vous dire que je fais de la course à pied et du VTT depuis longtemps et que j'adore en parler et échanger [des défis](http://www.strongmanrun.be/smr/?lang=fr) !
 
 - Email : [romain@jefaisvotresite.com](mailto:romain@jefaisvotresite.com)
 - Site : [Jefaisvotresite](http://jefaisvotresite.com)
