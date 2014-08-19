@@ -40,9 +40,9 @@ J'utilise la communication non violente au quotidien et m'en sers pour explicite
 - Je comprends les bases du Néérlandais et peux dire des phrases simples ;
 
 ### Diplômes
-- 2004 - 2007 – Bachelier en Infographie orientation Web à la Haute Ecole Rennequim Sualem de Seraing. Sorti second de ma promotion avec **grande distinction** ;
-- 2003 – Un an d’interprétariat traduction à l’ISTI Anglais/Russe (Bruxelles) ;
-- 2002 – Diplôme d’études secondaires, option latin langues à l’Athénée Royal de Spa.
+- 2004 - 2007 – Bachelier en Infographie orientation Web à la Haute Ecole Rennequim Sualem de Seraing (BE). Sorti second de ma promotion avec **grande distinction** ;
+- 2003 – Un an d’interprétariat traduction à l’ISTI Anglais/Russe (Bruxelles BE) ;
+- 2002 – Diplôme d’études secondaires, option latin langues à l’Athénée Royal de Spa (BE).
 
 ### Expériences utiles
 
