@@ -68,7 +68,7 @@ Honte à moi, j'ai oublié de vous dire que je fais du canicross, de la course �
 
 - Email : [romain@jefaisvotresite.com](mailto:romain@jefaisvotresite.com)
 - Site : [Jefaisvotresite](http://jefaisvotresite.com)
-- Téléphone : [+32 (0)497 26 48 32](tel:0032497264832)
+- Téléphone : [+33 (0) 86 23 43 83](tel:0033786234383)
 - Skype : romain.sauvaire
 - GitHub: [Compte GitHub](https://github.com/RomainSauvaire/)
 - LinkedIn : [Profil LinkedIn](http://www.linkedin.com/pub/romain-sauvaire/33/893/9aa)
