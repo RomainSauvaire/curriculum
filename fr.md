@@ -58,6 +58,7 @@ Noyé par les démarches administratives liées à mon poste, n'ayant plus les m
 
 #### Mais aussi...
 Des voyages en Mongolie, au Népal, au Sahara et différents jobs d'étudiant (dont vendeur de glace 4 ans et barman 2 ans) m'ont aidé à appréhender la relation humaine de la meilleure façon qu'il soit à mes yeux : en rencontrant d'autres humains.
+Depuis 2013 et grâce à ma double nationalité (FR/BE) je navigue entre la France ([Fécamp](https://www.google.fr/maps/place/F%C3%A9camp/@49.7917813,0.4093728,9z/data=!4m2!3m1!1s0x47e06b69133e1681:0x57434975e5d89613?hl=en)) et la Belgique ([Spa](https://www.google.fr/maps/place/Spa,+Belgium/@50.0116251,6.4011871,8z/data=!4m2!3m1!1s0x47c0622ca0928b3b:0x34af87ecfc9b2e36?hl=en)). Une fois que le travail me le permettra, je travaillerai à 100% en France.
 
 Vous pouvez obtenir les contacts ou lettres de recommandation de chacun de ces postes sur simple demande.
 
