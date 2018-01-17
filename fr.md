@@ -46,6 +46,9 @@ J'utilise la communication non violente au quotidien et m'en sers pour explicite
 
 ### Expériences utiles
 
+#### 2007-2014 Directeur technique SneefR
+SneefR était un service web de petites annonces à destination des particuliers. Nous cherchions à remettre la confiance au centre des échanges en offrant une évaluation des vendeurs et en intégrant le paiement au sein de l'application.
+
 #### 2007-2014 Freelance
 Plusieurs clients dont une application Facebook, [plusieurs sites](http://jefaisvotresite.com/portfolio/) et  un projet personnel appelé [Fortho](http://fortho.fr) qui est un outil pour les logopèdes et qui représente à lui seul mes compétences.
 
