@@ -46,7 +46,10 @@ J'utilise la communication non violente au quotidien et m'en sers pour explicite
 
 ### Expériences utiles
 
-#### 2007-2014 Directeur technique SneefR
+#### 2017-2018 Reconversion professionnelle
+J'ai eu le plaisir de devenir papa et cela a changé mes envies et besoins, aussi depuis fin 2017 j'ai suivi plusieurs formations afin de devenir maraîcher.
+
+#### 2014-2017 Directeur technique SneefR
 SneefR était un service web de petites annonces à destination des particuliers. Nous cherchions à remettre la confiance au centre des échanges en offrant une évaluation des vendeurs et en intégrant le paiement au sein de l'application.
 
 #### 2007-2014 Freelance
@@ -63,7 +66,6 @@ Noyé par les démarches administratives liées à mon poste, n'ayant plus les m
 Des voyages en Mongolie, au Népal, au Sahara et différents jobs d'étudiant (dont vendeur de glace 4 ans et barman 2 ans) m'ont aidé à appréhender la relation humaine de la meilleure façon qu'il soit à mes yeux : en rencontrant d'autres humains.
 
 Vous pouvez obtenir les contacts ou lettres de recommandation de chacun de ces postes sur simple demande.
-
 
 ### Contactez-moi !
 Honte à moi, j'ai oublié de vous dire que je fais du canicross, de la course à pied et du VTT depuis longtemps ! Comment, vous ne savez pas encore ce qu'est le canicross ? Rencontrons-nous pour en parler!
